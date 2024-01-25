@@ -38,12 +38,13 @@ body { background-color:#737373; padding:0;  margin: 0; }
 #pdf_23cc993b { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:1970px; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
 .textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
 .textstyle7 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#text_25631d66 { position:absolute; left:2%; top:33%; background:none;  }
-.textstyle8 { font-size:20pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
-#text_598a7e43 { position:absolute; left:2%; top:15%; width:447px; height:38px; background:none;  }
+#text_25631d66 { position:absolute; left:3%; top:28%; background:none;  }
+.textstyle8 { font-size:20pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFF80; font-style:italic;  }
+#text_598a7e43 { position:absolute; left:7%; top:5%; width:550px; height:112px; background:none;  }
 .textstyle9 { font-size:24pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
-#text_71a7ebef { position:absolute; left:6%; top:58%; width:539px; height:105px; background:none;  }
+#text_71a7ebef { position:absolute; left:3%; top:49%; width:618px; height:105px; background:none;  }
 .textstyle10 { font-size:14pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
+.textstyle11 { font-size:14pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF; text-decoration:underline;  }
 @media only screen and (max-width: 450px)
 {
 		#menu_acb85b1 { width:100px;  }
