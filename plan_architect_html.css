@@ -25,7 +25,7 @@ body { background-color:#737373; padding:0;  margin: 0; }
 #container_7448a63a_padding { margin: 10px; display: block;  }
 #container_2c62af77 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:14px; background-color:#2C2825;  }
 #container_2c62af77_padding { margin: 10px; display: block;  }
-#menu_154ecdc7 { vertical-align: bottom; position:relative; display: inline-block; width:570px; height:34px; max-width:800px; text-align:left; background:none;  }
+#menu_154ecdc7 { vertical-align: bottom; position:relative; display: inline-block; width:710px; height:34px; max-width:800px; text-align:left; background:none;  }
 .menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
 .menustyle1 { position:absolute; width:100px; height:34px; left:10px;  }
 .menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:24px;  }
@@ -34,9 +34,9 @@ body { background-color:#737373; padding:0;  margin: 0; }
 .textstyle4 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap; }
 .menustyle2 { position:absolute; width:100px; height:34px; left:110px;  }
 .menustyle3 { position:absolute; width:127px; height:34px; left:210px;  }
-.menustyle4 { position:absolute; width:110px; height:34px; left:337px;  }
-.menustyle5 { position:absolute; width:126px; height:34px; left:447px;  }
-.menustyle6 { position:absolute; width:100px; height:34px; left:573px;  }
+.menustyle4 { position:absolute; width:246px; height:34px; left:337px;  }
+.menustyle5 { position:absolute; width:126px; height:34px; left:583px;  }
+.menustyle6 { position:absolute; width:100px; height:34px; left:709px;  }
 .menuentry_text3 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:0px;  }
 .textstyle5 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap; }
 .textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
