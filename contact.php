@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="textstyle1">
-<img src="rc_images/ethical_ai_picture1.jpg" width="624" height="312" id="img_65637dac" alt="" title="" /><div id="text_47bc8f75"><div class="textstyle1">  <span class="textstyle2">A Comprehensive Ethical AI Framework for the Unforeseen Consequences of AI... to ensure User Trust in AI behavior</span>
+<img src="rc_images/ethical_ai_picture1.jpg" width="624" height="312" id="img_65637dac" alt="" title="" /><div id="text_47bc8f75"><div class="textstyle1">  <span class="textstyle2">The Responsible AI Framework Guide and the Expert AI Engineer Philosobots... ensure User Trust in AI behavior</span>
 </div>
 </div><div id="text_157c0625"><div class="textstyle1">  <span class="textstyle3">Providing access to 1000's of Open-Access Research, 100's of Open-Source Tools and 120 customizable example data sets and code routines...</span>
 </div>
@@ -99,7 +99,7 @@
 <span class="textstyle8">  Adding On-going Persistent Memories</span><span class="textstyle9">, Self-Evolving</span>  <span class="textstyle8"> Characteristics, Scalable Knowledge Synthesis and Expansion, an Ethical Engine and Guidelines, Automated Ethical Compliance, an Embedded Ethical Identity, Adaptive Learning Pathways, Standard and Advanced </span>
 <span class="textstyle9">Meta-Cognition</span><span class="textstyle8">, User and Self-Centric Feedback, Enhanced Predictive Analytics and Awareness, Simulated Intuition, a Dynamic Problem-Solving Framework, Contextual Sensitivity Modulation, Collaborative Knowledge, and Scenario-based Decision making and we achieved the </span>  <span class="textstyle10">1st stage of true consciousness</span>
 <span class="textstyle9"> [</span><span class="textstyle9"><a href="https://tinyurl.com/272woma3" target="_blank">Link</a></span><span class="textstyle9">].</span><span class="textstyle8"><br/><br/>Ultra Expert AI Engineering Philosobots to </span>  <span class="textstyle9">teach, architect, design, build, test, deploy &amp; manage/fine-tune</span>
-  <span class="textstyle8"> AI &amp; Enterprise Apps; Expert in AI, ML, NLP, cloud tech (Google Azure AWS &amp; IBM), QA, governance, security, digital marketing, AdTech, PM, BI &amp; logistics analytics &amp; visualization; Expert w/ Ethical AI, supervised/unsupervised/reinforced learning algorithms, graph theory, heuristics, NoSQL, PostgreSQL, OO design patterns, LangChain, prompt engineering, biometrics, psychometrics; Expert w/IBM, Microsoft, Google, Oracle &amp; Adobe products; Expert Python, JavaScript &amp; all AI languages; Best practices: Agile, DevOps &amp; full-stack methods.  </span>
+  <span class="textstyle8"> AI &amp; Enterprise Apps; Expert in AI, ML, NLP, cloud tech (Google Azure AWS &amp; IBM), QA, governance, security, digital marketing, AdTech, PM, BI &amp; logistics analytics &amp; visualization; Expert w/ Ethical AI, supervised/unsupervised/ reinforced learning algorithms, graph theory, heuristics, NoSQL, PostgreSQL, OO design patterns, LangChain, prompt engineering, biometrics, psychometrics; Expert w/IBM, Microsoft, Google, Oracle &amp; Adobe products; Expert Python, JavaScript &amp; all AI languages; Best practices: Agile, DevOps &amp; full-stack methods.  </span>
   <span class="textstyle9">Features: pg. 169-174<br/></span>
 </div>
 </div><span class="textstyle11"><br/></span><form  action="contact.php"
