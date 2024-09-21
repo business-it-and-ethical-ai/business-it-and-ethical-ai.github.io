@@ -44,9 +44,9 @@ body { background-color:#737373; padding:0;  margin: 0; }
 .textstyle9 { font-size:10pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
 #text_6d013025 { position:absolute; left:3%; top:58%; width:975px; height:151px; background:none;  }
 .textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#container_45e63ad5 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_45e63ad5 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:662px; background:none;  }
 #container_45e63ad5_padding { margin: 10px; display: block;  }
-#pdf_3813f669 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:101%; height:300px; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
+#pdf_3813f669 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:101%; height:1027px; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
 @media only screen and (max-width: 450px)
 {
 		#menu_26cda9dd { width:100px;  }
