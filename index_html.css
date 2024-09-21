@@ -20,10 +20,10 @@ a:hover { color:#B2B3B4; }
 body { background-color:#737373; padding:0;  margin: 0; }
 .textstyle1 { text-align:left; }
 #img_5e11d928 { vertical-align: bottom; position:relative; display: inline-block; width:100%; background:none; height:auto;  }
-#text_2d7b4969 { position:absolute; left:3%; top:14%; width:933px; height:65px; background:none;  }
-.textstyle2 { font-size:20pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFF00; font-style:italic;  }
-#text_3bf7972b { position:absolute; left:4%; top:3%; width:940px; height:59px; background:none;  }
-.textstyle3 { font-size:16pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
+#text_2d7b4969 { position:absolute; left:3%; top:17%; width:933px; height:71px; background:none;  }
+.textstyle2 { font-size:18pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFF00; font-style:italic;  }
+#text_3bf7972b { position:absolute; left:4%; top:4%; width:940px; height:75px; background:none;  }
+.textstyle3 { font-size:12pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
 #container_7cabf6e6 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:14px; background-color:#2C2825;  }
 #container_7cabf6e6_padding { margin: 10px; display: block;  }
 .textstyle4 { text-align:center; }
@@ -42,10 +42,10 @@ body { background-color:#737373; padding:0;  margin: 0; }
 .menuentry_text3 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:19px;  }
 .textstyle7 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap; }
 .textstyle8 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap; }
-#text_6df3d864 { position:absolute; left:3%; top:28%; width:989px; height:304px; background:none;  }
-.textstyle9 { font-size:12pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
-.textstyle10 { font-size:12pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFF00;  }
-.textstyle11 { font-size:12pt; font-family:'Arial Black', Gadget, sans-serif; color:#FF0000;  }
+#text_6df3d864 { position:absolute; left:3%; top:32%; width:989px; height:316px; background:none;  }
+.textstyle9 { font-size:11pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
+.textstyle10 { font-size:11pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFF00;  }
+.textstyle11 { font-size:11pt; font-family:'Arial Black', Gadget, sans-serif; color:#FF0000;  }
 #img_28d8ef31 { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
 #img_41e5572d { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
 @media only screen and (max-width: 450px)

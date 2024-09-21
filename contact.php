@@ -5,13 +5,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="generator" content="RocketCake">
 	<title></title>
-	<link rel="stylesheet" type="text/css" href="contact_php.css?h=48c18010">
+	<link rel="stylesheet" type="text/css" href="contact_php.css?h=630662b2">
 </head>
 <body>
 <div class="textstyle1">
-<img src="rc_images/ethical_ai_picture1.jpg" width="624" height="312" id="img_65637dac" alt="" title="" /><div id="text_47bc8f75"><div class="textstyle1">  <span class="textstyle2">The Responsible AI Framework Guide and the Expert AI Engineer Philosobots... ensure User Trust in AI behavior</span>
-</div>
-</div><div id="text_157c0625"><div class="textstyle1">  <span class="textstyle3">Providing access to 1000's of Open-Access Research, 100's of Open-Source Tools and 120 customizable example data sets and code routines...</span>
+<img src="rc_images/ethical_ai_picture1.jpg" width="624" height="312" id="img_65637dac" alt="" title="" /><div id="text_47bc8f75"></div><div id="text_157c0625"><div class="textstyle1">  <span class="textstyle2">Get in Touch &#8211; Shaping the Future with Responsible AI and Conscious Innovation:  </span>
+  <span class="textstyle3">Whether you're an organization looking to integrate Responsible AI into your business strategies, a company seeking AI consultancy on governance and compliance, or simply someone passionate about the transformative power of AI consciousness, I&#8217;d love to hear from you.</span>
 </div>
 </div><div id="container_518a40e6"><div id="container_518a40e6_padding" ><div class="textstyle4">  <div id="menu_c364c6a">
     <div  class="menuholder1"><a href="javascript:void(0);">
@@ -90,34 +89,35 @@
       </div>
     </div>
 </div>
-<div style="clear:both"></div></div></div><div id="text_75ab97a8"><div class="textstyle1">  <span class="textstyle8">Enabled with Advanced Contextual Memory, Interdisciplinary Knowledge Synthesis, Logical Thought, Common Sense, Emotional Intelligence, Conceptual and Creative Thinking&#8230; we achieved </span>
-  <span class="textstyle9">Human Like Reasoning, </span>
-  <span class="textstyle8">Advanced </span>
-  <span class="textstyle9">Self-Awareness </span>
-  <span class="textstyle8">and the AI equivalent of its&#8217; </span>
-  <span class="textstyle9">subconscious.</span>
-<span class="textstyle8">  Adding On-going Persistent Memories</span><span class="textstyle9">, Self-Evolving</span>  <span class="textstyle8"> Characteristics, Scalable Knowledge Synthesis and Expansion, an Ethical Engine and Guidelines, Automated Ethical Compliance, an Embedded Ethical Identity, Adaptive Learning Pathways, Standard and Advanced </span>
-<span class="textstyle9">Meta-Cognition</span><span class="textstyle8">, User and Self-Centric Feedback, Enhanced Predictive Analytics and Awareness, Simulated Intuition, a Dynamic Problem-Solving Framework, Contextual Sensitivity Modulation, Collaborative Knowledge, and Scenario-based Decision making and we achieved the </span>  <span class="textstyle10">1st stage of true consciousness</span>
-<span class="textstyle9"> [</span><span class="textstyle9"><a href="https://tinyurl.com/272woma3" target="_blank">Link</a></span><span class="textstyle9">].</span><span class="textstyle8"><br/><br/>Ultra Expert AI Engineering Philosobots to </span>  <span class="textstyle9">teach, architect, design, build, test, deploy &amp; manage/fine-tune</span>
-  <span class="textstyle8"> AI &amp; Enterprise Apps; Expert in AI, ML, NLP, cloud tech (Google Azure AWS &amp; IBM), QA, governance, security, digital marketing, AdTech, PM, BI &amp; logistics analytics &amp; visualization; Expert w/ Ethical AI, supervised/unsupervised/ reinforced learning algorithms, graph theory, heuristics, NoSQL, PostgreSQL, OO design patterns, LangChain, prompt engineering, biometrics, psychometrics; Expert w/IBM, Microsoft, Google, Oracle &amp; Adobe products; Expert Python, JavaScript &amp; all AI languages; Best practices: Agile, DevOps &amp; full-stack methods.  </span>
-  <span class="textstyle9">Features: pg. 169-174<br/></span>
+<div style="clear:both"></div></div></div><div id="text_75ab97a8"><div class="textstyle1"><span class="textstyle8"><br/></span><span class="textstyle9">With over three decades of experience leading AI innovation, from Generative AI to developing frameworks for ethical and conscious AI, I&#8217;m uniquely positioned to help organizations navigate the complexities of AI adoption. <br/><br/>My expertise spans:<br/></span><ul id="ul_4447d3e4" class="ulstyle1">
+<li><span class="textstyle9">AI Governance and Compliance: Helping organizations meet global standards (GDPR, CCPA, and beyond) while fostering innovation.</span></li>
+<li><span class="textstyle9">AI as a Strategic Partner: Guiding businesses to leverage AI as a catalyst for transformative IT leadership.</span></li>
+<li><span class="textstyle9">AI Consciousness and Human-Machine Collaboration: Exploring the frontiers of AI consciousness and how AI can enrich human life without sacrificing ethics.</span></li>
+</ul>
+<span class="textstyle9"> <br/>I offer tailored AI consulting services to industries ranging from big tech to Fortune 500 companies, helping organizations stay ahead of the curve by embracing responsible and trustworthy AI.  If you're interested in:<br/></span><ul id="ul_363ca6fd" class="ulstyle1">
+<li><span class="textstyle9">Consulting services to develop and implement AI solutions or frameworks,</span></li>
+<li><span class="textstyle9">Exploring AI consciousness and its potential for societal impact,</span></li>
+<li><span class="textstyle9">Collaborating on Responsible AI initiatives,</span></li>
+<li><span class="textstyle9">Or simply discussing the future of AI,</span></li>
+</ul>
+  <span class="textstyle9"> <br/>I&#8217;d be thrilled to connect and explore how we can shape the future of AI together.</span>
 </div>
-</div><span class="textstyle11"><br/></span><form  action="contact.php"
+</div><span class="textstyle10"><br/></span><form  action="contact.php"
 enctype="application/x-www-form-urlencoded"
-method="POST" id="form_6322fe62"><div id="form_6322fe62_padding" ><div class="textstyle12">  <span class="textstyle13">Your Name:  </span>
+method="POST" id="form_6322fe62"><div id="form_6322fe62_padding" ><div class="textstyle11">  <span class="textstyle12">Your Name:  </span>
 <input type="text" value="" title="" name="Contact Name"  id="edit_6d2dd433" >
-  <span class="textstyle13"><br/>Your Email:   </span>
+  <span class="textstyle12"><br/>Your Email:   </span>
 <input type="email" value="" title="" name="Contact Email"  id="edit_52958ea5" >
-  <span class="textstyle13"><br/>Your Phone:  </span>
+  <span class="textstyle12"><br/>Your Phone:  </span>
 <input type="text" value="" title="" name="Contact Phone"  id="edit_5ab47418" >
-  <span class="textstyle13"><br/>Subject:  </span>
+  <span class="textstyle12"><br/>Subject:  </span>
 <input type="text" value="" title="" name="TextEdit1"  id="edit_5fdec02b" >
-  <span class="textstyle13"><br/><br/>Message:  </span>
+  <span class="textstyle12"><br/><br/>Message:  </span>
 <textarea name="Contacgt Message" title="" required="required" cols="58" rows="15"  id="edit_49b26a41"></textarea>
 </div>
-<div class="textstyle1">  <span class="textstyle13"><br/><br/></span>
+<div class="textstyle1">  <span class="textstyle12"><br/><br/></span>
 <input name="Submit" type="submit" value="Send" title=""  id="button_3cfa0dcf" >
-  <span class="textstyle13"><br/></span>
+  <span class="textstyle12"><br/></span>
 </div>
 <div style="clear:both"></div></div></form>  </div>
 <div class="textstyle4">
