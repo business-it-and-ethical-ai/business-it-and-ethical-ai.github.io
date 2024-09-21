@@ -46,9 +46,11 @@ body { background-color:#737373; padding:0;  margin: 0; }
 #text_2b5ed20c { position:absolute; left:3%; top:3%; width:996px; height:97px; background:none;  }
 .textstyle8 { font-size:18pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFF00; font-style:italic;  }
 .textstyle9 { font-size:16pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFF00; font-style:italic;  }
-#text_7439ee00 { position:absolute; left:3%; top:24%; width:994px; height:369px; background:none;  }
+#text_7439ee00 { position:absolute; left:3%; top:23%; width:994px; height:110px; background:none;  }
 .textstyle10 { font-size:11pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
-.textstyle11 { font-size:11pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF; font-style:italic;  }
+#text_734c9320 { position:absolute; left:3%; top:43%; width:984px; height:83px; background:none;  }
+#text_70954eb3 { position:absolute; left:3%; top:56%; width:979px; height:108px; background:none;  }
+#text_1ccbda6e { position:absolute; left:3%; top:77%; width:961px; height:33px; background:none;  }
 @media only screen and (max-width: 450px)
 {
 		#menu_154ecdc7 { width:100px;  }
