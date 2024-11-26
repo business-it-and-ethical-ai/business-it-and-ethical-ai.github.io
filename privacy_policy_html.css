@@ -2,40 +2,4 @@ a { color:#5D5D9E; }
 a:visited { color:#5D5D9E; } 
 a:active { color:#5C615E; } 
 a:hover { color:#B2B3B4; } 
-#menu_170f5b97 a { text-decoration: none; }
-#menu_170f5b97_pane { background-color: #2C2825; border: 1px solid #646464; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
-#menu_170f5b97_hr { background-color: #646464; height: 1px; border: none; }
-#menu_170f5b97_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
-#menu_170f5b97_entry:hover { background-color: #323232; color: #FFFFFF !important; }
-#menu_170f5b97_entry:hover span { color:#FFFFFF !important; }
-		.menu_170f5b97_mainMenuEntry { text-align: center; }
-		.menu_170f5b97_mainMenuEntry:hover {	background-color:#FFFFFF; }
-		.menu_170f5b97_mainMenuEntry:hover span {	color:#000000 !important; }
-		#menu_170f5b97 .mobileEntry { display: none; } 
-		#menu_170f5b97 .normalEntry { display: block; } 
-		@media only screen and (max-width:450px) { 
-			#menu_170f5b97 .mobileEntry { display: block; } 
-			#menu_170f5b97 .normalEntry { display: none; } 
-		}
 body { background-color:#737373; padding:0;  margin: 0; }
-.textstyle1 { text-align:left; }
-#container_55b54d88 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:54px; background-color:#2C2825;  }
-#container_55b54d88_padding { margin: 10px; display: block;  }
-.textstyle2 { text-align:center; }
-#menu_170f5b97 { vertical-align: bottom; position:relative; display: inline-block; width:837px; height:34px; max-width:800px; text-align:left; background:none;  }
-.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
-.menustyle1 { position:absolute; width:100px; height:34px; left:10px;  }
-.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:24px;  }
-.textstyle3 { font-size:13pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap; }
-.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:22px;  }
-.textstyle4 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap; }
-.menustyle2 { position:absolute; width:100px; height:34px; left:110px;  }
-.menustyle3 { position:absolute; width:127px; height:34px; left:210px;  }
-.menustyle4 { position:absolute; width:193px; height:34px; left:337px;  }
-.menustyle5 { position:absolute; width:154px; height:34px; left:530px;  }
-.menustyle6 { position:absolute; width:159px; height:34px; left:684px;  }
-.textstyle5 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap; }
-@media only screen and (max-width: 450px)
-{
-		#menu_170f5b97 { width:100px;  }
-}
