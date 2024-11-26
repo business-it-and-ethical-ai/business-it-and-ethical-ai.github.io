@@ -5,84 +5,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="generator" content="RocketCake">
 	<title></title>
-	<link rel="stylesheet" type="text/css" href="terms_of_service.css?h=ec87b360">
+	<link rel="stylesheet" type="text/css" href="terms_of_service.css?h=db72ff51">
 </head>
 <body>
 <div class="textstyle1">
-<div id="container_593f5171"><div id="container_593f5171_padding" ><div class="textstyle1"><div id="container_d65920a"><div id="container_d65920a_padding" ><div class="textstyle2">  <div id="menu_79dff3b4">
-    <div  class="menuholder1"><a href="javascript:void(0);">
-	<div id="menuentry_4f34cc6e"  class="menustyle1 menu_79dff3b4_mainMenuEntry mobileEntry">
-		<div class="menuentry_text1">
-      <span class="textstyle3">Menu &#9660;</span>
-		</div>
-	</div>
-</a>
-<a href="index.html" style="text-decoration:none">
-	<div id="menuentry_6fbd9cc7"  class="menustyle1 menu_79dff3b4_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-      <span class="textstyle4">Home</span>
-		</div>
-	</div>
-</a>
-<a href="plan.html" style="text-decoration:none">
-	<div id="menuentry_74cc30ce"  class="menustyle2 menu_79dff3b4_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-      <span class="textstyle4">The Plan</span>
-		</div>
-	</div>
-</a>
-<a href="plan_architect.html" style="text-decoration:none">
-	<div id="menuentry_67883280"  class="menustyle3 menu_79dff3b4_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-      <span class="textstyle4">Plan Architect</span>
-		</div>
-	</div>
-</a>
-<a href="https://chat.openai.com/g/g-wIiARetPD-expert-ai-engineering-philosobot9" target="_blank" style="text-decoration:none">
-	<div id="menuentry_63efa2b7"  class="menustyle4 menu_79dff3b4_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-      <span class="textstyle4">AI Engineer Philosobot</span>
-		</div>
-	</div>
-</a>
-<a href="profound_impact.html" style="text-decoration:none">
-	<div id="menuentry_55cd82bf"  class="menustyle5 menu_79dff3b4_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-      <span class="textstyle4">Profound Impacts</span>
-		</div>
-	</div>
-</a>
-<a href="privacy_policy.html" target="_blank" style="text-decoration:none">
-	<div id="menuentry_557d032a"  class="menustyle6 menu_79dff3b4_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-      <span class="textstyle4">Privacy Policy      </span>
-		</div>
-	</div>
-</a>
-
-	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
-	<script type="text/javascript">
-		var js_menu_79dff3b4= new wsp_menu('menu_79dff3b4', 'menu_79dff3b4', 10, null, true);
-
-		js_menu_79dff3b4.createMenuForItem('menuentry_4f34cc6e', ["      <span class=\"textstyle5\">Home</span> ", 'index.html', '',
-		                                   "      <span class=\"textstyle5\">The Plan</span> ", 'plan.html', '',
-		                                   "      <span class=\"textstyle5\">Plan Architect</span> ", 'plan_architect.html', '',
-		                                   "      <span class=\"textstyle5\">AI Engineer Philosobot</span> ", 'https://chat.openai.com/g/g-wIiARetPD-expert-ai-engineering-philosobot9', '_blank',
-		                                   "      <span class=\"textstyle5\">Profound Impacts</span> ", 'profound_impact.html', '',
-		                                   "      <span class=\"textstyle5\">Privacy Policy      </span> ", 'privacy_policy.html', '_blank']);
-		js_menu_79dff3b4.createMenuForItem('menuentry_6fbd9cc7', []);
-		js_menu_79dff3b4.createMenuForItem('menuentry_74cc30ce', []);
-		js_menu_79dff3b4.createMenuForItem('menuentry_67883280', []);
-		js_menu_79dff3b4.createMenuForItem('menuentry_63efa2b7', []);
-		js_menu_79dff3b4.createMenuForItem('menuentry_55cd82bf', []);
-		js_menu_79dff3b4.createMenuForItem('menuentry_557d032a', []);
-
-	</script>
-      </div>
-    </div>
-</div>
-<div style="clear:both"></div></div></div></div>
-<div class="textstyle2"><iframe  frameBorder="0" src="rc_images/terms_of_service___business_it_and_ethical_ai_github_io.pdf#zoom=FitH" scrolling="auto" id="pdf_24b03f36"></iframe></div>
+<div id="container_593f5171"><div id="container_593f5171_padding" ><div class="textstyle2"><iframe  frameBorder="0" src="rc_images/terms_of_service___business_it_and_ethical_ai_github_io.pdf#zoom=FitH" scrolling="auto" id="pdf_24b03f36"></iframe></div>
 <div style="clear:both"></div></div></div>  </div>
 </body>
 </html>
