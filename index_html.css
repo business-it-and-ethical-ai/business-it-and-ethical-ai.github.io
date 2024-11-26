@@ -27,7 +27,7 @@ body { background-color:#737373; padding:0;  margin: 0; }
 .textstyle4 { font-size:12pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
 #container_7cabf6e6 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:14px; background-color:#2C2825;  }
 #container_7cabf6e6_padding { margin: 10px; display: block;  }
-#menu_78055da2 { vertical-align: bottom; position:relative; display: inline-block; width:800px; height:34px; max-width:800px; text-align:left; background:none;  }
+#menu_78055da2 { vertical-align: bottom; position:relative; display: inline-block; width:807px; height:34px; max-width:800px; text-align:left; background:none;  }
 .menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
 .menustyle1 { position:absolute; width:100px; height:34px; left:10px;  }
 .menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:24px;  }
@@ -51,10 +51,6 @@ body { background-color:#737373; padding:0;  margin: 0; }
 .textstyle12 { font-size:13pt; font-family:'Arial Black', Gadget, sans-serif; color:#00FF00;  }
 .textstyle13 { font-size:13pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFF80;  }
 .textstyle14 { font-size:15pt; font-family:'Arial Black', Gadget, sans-serif; color:#00FF00;  }
-#button_68f1787f { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:150px; height:40px; background-color:#C0C0C0; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
-.vcenterstyle1 { display: table; width: 100%; height: 100%; }
-.vcenterstyle2 { display: table-cell; vertical-align: middle; }
-.textstyle15 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
 @media only screen and (max-width: 450px)
 {
 		#menu_78055da2 { width:100px;  }
