@@ -52,8 +52,11 @@ body { background-color:#737373; padding:0;  margin: 0; }
 #text_734c9320 { position:absolute; left:5%; top:39%; width:984px; height:91px; background:none;  }
 #text_70954eb3 { position:absolute; left:5%; top:50%; width:979px; height:107px; background:none;  }
 #text_1ccbda6e { position:absolute; left:5%; top:68%; width:961px; height:110px; background:none;  }
-#text_5640478c { position:absolute; left:5%; top:72%; width:994px; height:40px; background:none;  }
+#text_5640478c { position:absolute; left:5%; top:72%; width:994px; height:88px; background:none;  }
 .textstyle12 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFF00; font-weight:bold;  }
+.textstyle13 { font-size:13pt; font-family:'Arial Black', Gadget, sans-serif; color:#00FF00;  }
+.textstyle14 { font-size:13pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFF80;  }
+.textstyle15 { font-size:15pt; font-family:'Arial Black', Gadget, sans-serif; color:#00FF00;  }
 @media only screen and (max-width: 450px)
 {
 		#menu_154ecdc7 { width:100px;  }
