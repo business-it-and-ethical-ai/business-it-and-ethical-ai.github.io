@@ -3,3 +3,5 @@ a:visited { color:#5D5D9E; }
 a:active { color:#5C615E; } 
 a:hover { color:#B2B3B4; } 
 body { background-color:#737373; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#html_e35a6f1 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:50%; height:100px; background-color:#E5E5E5; border: 1px solid #A0A0A0;  }
