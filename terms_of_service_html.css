@@ -42,9 +42,9 @@ body { background-color:#737373; padding:0;  margin: 0; }
 .textstyle7 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap; }
 #text_78f5a594 { position:absolute; left:6%; top:30%; width:989px; height:172px; background:none;  }
 .textstyle8 { font-size:11pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF;  }
-.textstyle9 { font-size:11pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFF00;  }
-.textstyle10 { font-size:11pt; font-family:'Arial Black', Gadget, sans-serif; color:#FF0000;  }
-#text_3daaba07 { position:absolute; left:6%; top:55%; width:975px; height:191px; background:none;  }
+.textstyle9 { font-size:11pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF; font-style:italic;  }
+#text_3daaba07 { position:absolute; left:6%; top:63%; width:975px; height:139px; background:none;  }
+.textstyle10 { font-size:11pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFF00;  }
 #container_21d9b795 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:573px; background:none;  }
 #container_21d9b795_padding { margin: 10px; display: block;  }
 #pdf_22f9d2c5 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:99%; height:551px; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
